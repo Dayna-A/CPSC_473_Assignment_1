@@ -1,8 +1,8 @@
 # CPSC_473_Assignment_1
 ```
-**Student:** Dayna Anderson
+__Student:__ Dayna Anderson
 
-**Semester:** Fall 2018
+__Semester:__ Fall 2018
 
-**Description:** New York Times Web Layout Emulation
+__Description:__ New York Times Web Layout Emulation
 ```
