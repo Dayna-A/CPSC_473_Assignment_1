@@ -10,5 +10,5 @@ Fall 2018
 ```
 #### Description:
 ```
-New York Times Web Layout Emulation Based off of this screenshot.
+New York Times web page layout recreation based off of the included screenshot before the source was altered.
 ```
