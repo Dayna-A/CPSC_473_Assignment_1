@@ -10,5 +10,5 @@ Fall 2018
 ```
 #### Description:
 ```
-New York Times Web Layout Emulation
+New York Times Web Layout Emulation Based off of this screenshot.
 ```
